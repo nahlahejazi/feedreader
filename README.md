@@ -8,19 +8,18 @@ Created for the Udacity Nanodegree Front End Web Developer.
 
 * [Project Description](#project-description)
 * [Jasmine Documentation](#jasmine-documentation)
-* [How to Run - Instructions](#How to Run)
-* [Tests Implemented](#Tests Implemented)
+* [How to Run](#How-to-Run)
+* [Tests Implemented](#Tests-Implemented)
 * [Sources](#sources)
 
 ## Project Description
-
 Students were given [a starter project](https://github.com/udacity/frontend-nanodegree-feedreader) - a web-based application that reads RSS feeds, but with an incomplete test suite. 
 A main goal was to test the RSS feed reader with Jasmine by modifying the feedreader.js file.
 
 ## Jasmine Documentation
 https://jasmine.github.io/
 
-## - How to Run
+## How to Run
 - Download or clone this repository (all files) to your local machine 
 - Open the `index.html` file in your browser 
 - Check the tests results at the bottom of the page.
