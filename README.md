@@ -1,3 +1,8 @@
+
+<head>
+<base target="_blank">
+</head>
+
 <h1 style="box-sizing: border-box; font-size: 2em; margin-top: 0px !important; margin-right: 0px; margin-bottom: 16px; margin-left: 0px; font-weight: 600; line-height: 1.25; padding-bottom: 0.3em; border-bottom: 1px solid rgb(234, 236, 239); color: rgb(36, 41, 46); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">
 Project Overview</h1>
 <ul style="box-sizing: border-box; padding-left: 2em; margin-top: 0px; margin-bottom: 16px; color: rgb(36, 41, 46); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">
@@ -10,7 +15,7 @@ Project Overview</h1>
 	executed using Jasmine.js to check the functionalites of the code written.</li>
 </ul>
 <p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 16px; color: rgb(36, 41, 46); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">
-Jasmine documentaion can be found<span>&nbsp;</span><a href="https://jasmine.github.io/" rel="nofollow" style="box-sizing: border-box; background-color: initial; color: rgb(3, 102, 214); text-decoration: none;" target="_blank">here</a></p>
+Jasmine documentaion can be found<span>&nbsp;</span><a href="https://jasmine.github.io/" rel="nofollow" style="box-sizing: border-box; background-color: initial; color: rgb(3, 102, 214); text-decoration: none;">here</a></p>
 <h1 style="box-sizing: border-box; font-size: 2em; margin: 24px 0px 16px; font-weight: 600; line-height: 1.25; padding-bottom: 0.3em; border-bottom: 1px solid rgb(234, 236, 239); color: rgb(36, 41, 46); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">
 <a id="user-content-getting-started" aria-hidden="true" class="anchor" href="https://github.com/binaryshrey/fend-feedreader-testing/blob/master/README.md#getting-started" style="box-sizing: border-box; background-color: initial; color: rgb(3, 102, 214); text-decoration: none; float: left; padding-right: 4px; margin-left: -20px; line-height: 1;">
 <svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16">
@@ -50,4 +55,3 @@ Udacity for providing</p>
 	<li style="box-sizing: border-box; margin-top: 0.25em;">project assets</li>
 	<li style="box-sizing: border-box; margin-top: 0.25em;">starter template<span>&nbsp;</span><a href="https://github.com/udacity/frontend-nanodegree-feedreader" style="box-sizing: border-box; background-color: initial; color: rgb(3, 102, 214); text-decoration: none;" target="_blank">frontend-nanodegree-feedreader</a></li>
 </ul>
-
